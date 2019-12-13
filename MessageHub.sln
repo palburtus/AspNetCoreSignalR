@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageHub", "MessageHub\MessageHub.csproj", "{4982D1AC-4D22-4771-89DB-3C1C88148F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4982D1AC-4D22-4771-89DB-3C1C88148F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4982D1AC-4D22-4771-89DB-3C1C88148F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4982D1AC-4D22-4771-89DB-3C1C88148F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4982D1AC-4D22-4771-89DB-3C1C88148F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB90017D-AC6E-4EA0-A88F-304714B58BC2}
+	EndGlobalSection
+EndGlobal
